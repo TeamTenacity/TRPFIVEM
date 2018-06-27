@@ -1,0 +1,8522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IVPack vehicle colors informations, version 1.0.130 -->
+<!-- DO NOT DISTRIBUTE WITHOUT PERMISSION OF THE CREATORS! -->
+<CVehicleModelInfoVariation>
+  <variationData>
+	<Item>
+      <modelName>admiral</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5
+            5 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            61
+            61
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+            101 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            103
+            103 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>angel</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            73
+            111 
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            4 
+            31 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            34 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>999_angel_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>apc</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            111 
+            111 
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>blade2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            68
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            65
+            72
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            88
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            38
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            1
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            88
+            27
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            107
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            32
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>bobcat</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            1 
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+            2 
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            5 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6 
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            52
+            107 
+            52 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            100
+            113 
+            106 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            72
+            68 
+            68 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+            1 
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            31
+            0 
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            77
+			77
+            77 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            49
+            51 
+            51 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            103
+            106 
+            103 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0 
+            10 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		</colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="24" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>bodhi</modelName>
+      <colors>
+		<Item>
+          <indices content="char_array">
+            0
+			0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+			2
+            18 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3
+			3
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+			6
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+			4
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+			6
+            34 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            35
+			35
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            97
+			1
+            101 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            53
+			58
+            51 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+			111
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            10
+			10
+            6
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            69
+			0
+            66
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+			2
+            7
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1000_bodhi_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>boxville6</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            111
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            1
+            5
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            0
+            110
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>brickade2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            132
+            131 
+            131 
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="154" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>buccaneer3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            19
+            19 
+            19 
+            156			
+            3		
+            3		
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            16
+            16 
+            16 
+            156
+            3
+            3
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            48
+            48 
+            48 
+            156
+            3
+            3
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            50
+            50 
+            50 
+            156 
+            3
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            56
+            56 
+            56 
+            156 
+            3 
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            71
+            71 
+            71 
+            156 
+            3 
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            76
+            76 
+            76 
+            156 
+            3 
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            84
+            84 
+            84 
+            156 
+            3 
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            93
+            93 
+            93 
+            156 
+            3
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            96
+            96 
+            96 
+            156 
+            3 
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+            101
+            101 
+            156 
+            3
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            16
+            16 
+            75 
+            156 
+            3 
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            9
+            9 
+            90 
+            156 
+            3
+            34
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            14
+            14 
+            93
+            156 
+            3
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            19
+            19 
+            93 
+            156 
+            3
+            3 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1015_buccaneer3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="155" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>bus2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            29
+            0
+            111 
+            156 
+          </indices>
+           <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54
+            0
+            111 
+            156 
+          </indices>
+           <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            62
+            111
+            111 
+            156 
+          </indices>
+           <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="159" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>cabby</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            88
+            77
+			25
+            120 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>chavos</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            1
+            0 
+            7 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            0 
+            10 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            33
+            33 
+            27 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            40
+            0
+            30 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            33
+            132 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            49
+            49 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            63
+            63 
+            62 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            2
+            2 
+            63 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            22
+            22 
+            72
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1020_chavos_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="157" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>cheetah2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            30 
+            120 
+            30 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            112 
+            120 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            74 
+            74 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            89 
+            89 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1021_cheetah2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>contender2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            56
+            56 
+            59 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            20
+            20
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11
+            10 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            1
+            10 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            1
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            49
+            40 
+            53 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            57
+            60 
+            51 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            64
+            63 
+            63 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            69
+            72 
+            72 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            85
+            85 
+            58 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            110 
+            109 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="151" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>coquette4</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            112
+            35 
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            0 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11
+            92 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            23
+            98 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            33
+            33
+            33 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            49
+            49 
+            53 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            74
+            74 
+            63 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            20
+            20 
+            72 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="151" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>df8</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            1 
+            75 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            6
+            0
+            12 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+            34
+            30 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            0
+            12 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            33
+            0 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            47
+            0 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            54
+            0 
+            55 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            64
+            0
+            63 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            105
+            105 
+            102
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="150" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>diabolus3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            5 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11 
+            0 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            0 
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33 
+            33 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54 
+            54 
+            57
+            156 
+          </indices>
+          <liveries/>
+        </Item>   		
+      </colors>
+      <kits>
+		<Item>1002_diab_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>double2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            27
+            27 
+            27 
+            27 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6 
+            111 
+            27 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            131
+            131 
+            0 
+            27 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            13
+            13 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>		
+      </colors>
+      <kits>
+		<Item>0_bike_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="28" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>esperanto</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            20
+            20 
+            18 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            16
+            16 
+            16 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7 
+            16 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            1
+            1
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            26
+            26
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            33 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            49
+            49 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            56
+            56 
+            56 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            65
+            65 
+            68 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            96
+            96 
+            96 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            110 
+            109 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+            2 
+            61 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            20
+            20 
+            71
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11
+            11 
+            90
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            19
+            19 
+            92
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="154" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>feltzer</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            20
+            20 
+            18 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            16
+            16 
+            16 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7 
+            16 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            1
+            1
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            26
+            26
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            33 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            49
+            49 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            56
+            56 
+            56 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            65
+            65 
+            68 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            96
+            96 
+            96 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            110 
+            109 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+            2 
+            61 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            20
+            20 
+            71
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11
+            11 
+            90
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            19
+            19 
+            92
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="20" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="80" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="156" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>feroci</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            156
+            95 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            3
+            156 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            17
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            156
+            31 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            49
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            66
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            87
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            94
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            101
+            156 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1010_feroci_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>feroci2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            121
+            121 
+            121 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="9" />
+    </Item>
+	<Item>
+      <modelName>flatbed2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            5
+            1
+            5
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            0
+            110
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>floater</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            68
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            65
+            72
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            88
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            38
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            1
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            88
+            27
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            107
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            32
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>fortune</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+			0
+            26 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3
+			3
+            6 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+			4
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+			6
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            72
+			72
+            73 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            1
+			1
+            65 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+			111
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            93
+			93
+            98 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>freeway</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            5 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11 
+            0 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            0 
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33 
+            33 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54 
+            54 
+            57
+            156 
+          </indices>
+          <liveries/>
+        </Item>   		
+      </colors>
+      <kits>
+		<Item>1006_freeway_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>futo2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            0 
+            26 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            3
+            6 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            3
+            3 
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            4
+            4 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            6
+            6 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            72
+            72 
+            73			
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            1
+            1 
+            65 
+            106 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            111
+            14 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            93
+            95 
+            98 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            1
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            10
+            10
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            14
+            12
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            50
+            1
+            51 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            105
+            105
+            106 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33
+            0
+            26 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1003_futo2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>fxt</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            4
+            4 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            6
+            6 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34
+            32 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            134
+            134 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            66
+            66 
+            66 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            94
+            94 
+            104
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            101
+            101 
+            102 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            98
+            132 
+            98
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>996_cavalcade_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>ghawar</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            121
+            121
+            121 
+            156
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+          <Item value="false" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            121
+            121 
+            156
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+          <Item value="false" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            121
+            121 
+            156
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="false" />
+          <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            121
+            121 
+            156
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="false" />
+          <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="18" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>hakumai</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            0 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            12
+            12 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            3 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            4
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            10 
+            8			
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            16
+            9 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            23 
+            8
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            26
+            26 
+            18 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34
+            34 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54
+            1
+            54 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            56
+            1
+            56 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            67
+            1
+            64 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            71
+            6
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            76
+            76
+            76 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            107
+            1
+            107 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            116
+            107
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1014_hakumai_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>hakuchou3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            111 
+            0 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111 
+            111 
+            0 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_bike_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>hellfury</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            5 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11 
+            0 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            0 
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33 
+            33 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54 
+            54 
+            57
+            156 
+          </indices>
+          <liveries/>
+        </Item>   		
+      </colors>
+      <kits>
+		<Item>0_bike_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>huntley2</modelName>
+      <colors>
+	  <Item>
+          <indices content="char_array">
+            2
+			2
+            7 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11
+			11
+            6 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+			111
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+			0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            1
+			1
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+			34
+            32 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            94
+			94
+            97 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+			103
+            103 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+			6
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1023_huntley2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="151" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>ingot</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            0
+            7 
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            63
+            63
+            80
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            49
+            0
+            56
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6
+            111
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            3
+            111
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            95
+            0
+            93
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            100
+            1
+            101
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            7
+            0
+            5
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+            1
+            33
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            10
+            0
+            4
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            3
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3
+            0
+            13
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+		<Item>998_ingot_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="45" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>interceptor</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            116
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            8
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            17
+            121
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            36
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            74
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            56
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            74
+            121 
+            1
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            92
+            34 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            1
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            85
+            121
+            83 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            16
+            121
+            75
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1017_inter_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="72" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>jb7002</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            4
+            0 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>lokus</modelName>
+      <colors>
+	  <Item>
+          <indices content="char_array">
+            5
+			5
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+			4
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+			2
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+			5
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            32
+			32
+            29 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            66
+			66
+            68 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            50
+			50
+            52 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+			111
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            95
+			95
+            98 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+			0
+            2 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1009_lokus_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="157" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>lycan</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            28 
+            28 
+            32 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            38 
+            38 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            92 
+            92 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3 
+            3 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+      </colors>
+      <kits>
+		<Item>0_bike_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>lycan2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+      </colors>
+      <kits>
+		<Item>0_bike_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>marbelle</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            7 
+            7 
+            133 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4 
+            4 
+            9 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19 
+            19 
+            19 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33 
+            33 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31 
+            31 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34 
+            34 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            54 
+            54 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56 
+            56 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52 
+            52 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            67 
+            67 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            77 
+            77 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            94 
+            94 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2 
+            2 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="158" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>merit</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5
+            5 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            61
+            61
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+            101 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            103
+            103 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="151" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>mrtasty</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+      </colors>
+      <kits></kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="151" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>nightblade2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            5 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11 
+            0 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            0 
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33 
+            33 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54 
+            54 
+            57
+            156 
+          </indices>
+          <liveries/>
+        </Item>  
+		<Item>
+          <indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            28 
+            28 
+            32 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            38 
+            38 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            92 
+            92 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3 
+            3 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>  		
+      </colors>
+      <kits>
+		<Item>0_bike_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>nrg900</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            5 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11 
+            0 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            0 
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33 
+            33 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            31
+            112 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54 
+            54 
+            57
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            73
+            112 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>   		
+      </colors>
+      <kits>
+		<Item>1004_nrg_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>nstockade</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            12
+            12 
+            12 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            12
+            12
+            12 
+            156 
+          </indices>
+           <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="1" />
+    </Item>
+	<Item>
+      <modelName>oracle</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            31
+            0
+            32
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            84
+            0
+            78
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            0
+            111
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            1
+            0
+            4
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+            0
+            111
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            0
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            0
+            111
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            7
+            0
+            5
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            10
+            0
+            5
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            27
+            0
+            28
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            93
+            0
+            106
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            97
+            0
+            99
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            1
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        </colors>
+      <kits>
+        <Item>997_oracle_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>packer2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            5
+            1
+            5
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            0
+            110
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>perennial</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            3
+            3 
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+			111
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+			0
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+			6
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+			34
+            31 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            104
+			104
+            104 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            63
+			63
+            65 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+			4
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            10
+			10
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            106
+			106
+            106 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+			5
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            7
+			7
+            4 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+			101
+            104 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>perennial2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            121
+            121 
+            121 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="9" />
+    </Item>
+	<Item>
+      <modelName>phoenix2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            0 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            12
+            12 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            3 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            4
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            10 
+            8			
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            16
+            9 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            23 
+            8
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            26
+            26 
+            18 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34
+            34 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54
+            1
+            54 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            56
+            1
+            56 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            67
+            1
+            64 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            71
+            6
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            76
+            76
+            76 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            107
+            1
+            107 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            116
+            107
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="38" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>pinnacle</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            3
+            3 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            4
+            4 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            9
+            9 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            18
+            18 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            31 
+            31 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            53
+            53 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            61
+            61 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            77
+            77
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>pmp600</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0 
+            37 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            0 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            96 
+            156 
+          </indices>
+          <liveries>
+           </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            20
+            20
+            11 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            23
+            11 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            28
+            28 
+            28 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            45
+            45 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            53
+            53 
+            58 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            62
+            62 
+            51 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            68
+            68 
+            64 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            85
+            85 
+            119 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1007_pmp_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+    <modelName>police6</modelName>
+    <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="151" />
+      <sirenSettings value="13" />
+    </Item>
+	<Item>
+      <modelName>police7</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            0 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="1" />
+    </Item>
+	<Item>
+    <modelName>police8</modelName>
+    <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="true" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="true" />
+			<Item value="false" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="true" />
+			<Item value="false" />
+          </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            0
+            1
+            156	
+          </indices>
+          <liveries>
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+            <Item value="false" />
+			<Item value="false" />
+			<Item value="true" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="5" />
+    </Item>
+	<Item>
+      <modelName>premier2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5
+            5 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            61
+            61
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+            101 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            103
+            103 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>pres</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            1 
+            75 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            6 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            6
+            97 
+            11 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            132
+            11 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            33
+            132 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            141
+            132 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            49
+            132 
+            62 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            64
+            132 
+            64 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            98
+            132 
+            98
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1008_pres_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="150" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>pres2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            0
+            1 
+            75 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            6 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            6
+            97 
+            11 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            132
+            11 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            33
+            132 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            141
+            132 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            49
+            132 
+            62 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            64
+            132 
+            64 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            98
+            132 
+            98
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>pstockade</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            12
+            12 
+            12 
+            156 
+          </indices>
+           <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="1" />
+    </Item>
+	<Item>
+      <modelName>rancher</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0 
+            2
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            1
+            24 
+            74 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            23
+            24
+            75 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            30
+            30
+            39 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            52
+            54 
+            61 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            76
+            73 
+            75 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            19
+            19
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            68
+            68 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            72
+            72 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            75
+            75 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>rebla</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3
+            3 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            10
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            16
+            16 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            19
+            19
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            52
+            52 
+            52 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            68
+            68 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            72
+            72 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            75
+            75 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1011_rebla_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>reefer</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            111
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities/>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>regina2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3
+            3 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            10
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            16
+            16 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            19
+            19
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            52
+            52 
+            52 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            68
+            68 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            72
+            72 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            75
+            75 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="155" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>revenant</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3
+            3 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            10
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            16
+            16 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            19
+            19
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            52
+            52 
+            52 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            68
+            68 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            72
+            72 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            75
+            75 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_bike_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>rom</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            1 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="154" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>sabre</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            3
+            3 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            4
+            4 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            23
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            31
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            61
+            61 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            56
+            56
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            67
+            67 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            68
+            68 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            71
+            71 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            94
+            94 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            98
+            98 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="65" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="35" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="152" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>sabre2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            3
+            3 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            4
+            4 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            156 
+            156 
+          </indices>
+         <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            23
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            31
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            61
+            61 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            56
+            56
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            67
+            67 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            68
+            68 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            71
+            71 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            94
+            94 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+          <Item value="false" />
+		  </liveries>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            98
+            98 
+            156 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="false" />
+          <Item value="true" />
+		  </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="45" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="45" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>schafter</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            5
+            5 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34 
+            0 
+            156 
+          </indices>
+          <liveries>
+           </liveries>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            51
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            61
+            61
+            61 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            69
+            69 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            101
+            101 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            103
+            103 
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1018_schafter_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+		  <Item>
+            <Name>Standard White</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="150" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>sentinel3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            1 
+            50 
+            156			
+            2		
+            121			
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            132 
+            1 
+            156 
+            2
+            111 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            1 
+            11 
+            156 
+            2 
+            121 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            1
+            11 
+            156 
+            2 
+            121 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            132
+            30 
+            156 
+            2 
+            121 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            51
+            132 
+            54 
+            156 
+            2 
+            121 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            71
+            132 
+            102 
+            156 
+            2 
+            121 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            103
+            101 
+            90 
+            156 
+            2 
+            121 
+          </indices>
+          <liveryNames>
+        <Item>SENT3_LV1</Item>
+        <Item>SENT3_LV2</Item>
+      </liveryNames>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1016_sentinel3_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>smuggler</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111 
+            68
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            65
+            72
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            88
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            38
+            112 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            1
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            88
+            27
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            107
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            32
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits/>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>solair</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            1 
+            3
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+            2 
+            18 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+            4 
+            111 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6 
+            111 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            0 
+            0 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            5 
+            111 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            72
+            72 
+            73 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+            34 
+            33 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            62
+            62 
+            75 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            50
+            50 
+            50 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0 
+            10 
+            156			
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>stanier2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            1 
+            7 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+            4 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            69
+            69
+            67 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+            34 
+            33 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            31
+            31 
+            32 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            67
+            67 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            37
+            37 
+            38 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            93
+            93 
+            107 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0 
+            10 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>steed</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            5
+            1
+            5
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            0
+            110
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>stratum2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            116
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            8
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            10
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            17
+            121
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            23
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            36
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            74
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            56
+            121 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            74
+            121 
+            1
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            0
+            92
+            34 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            1
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            85
+            121
+            83 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            16
+            121
+            75
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>stretch2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            132
+            132
+            133 
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>stretch3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            132
+            132
+            133 
+            156  
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="45" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>sultan2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            1
+            1
+            5 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2
+            2
+            7 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            4
+            4
+            111 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6
+            111 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            111 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            30
+            30
+            36
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            65
+            65
+            68 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            34
+            34
+            33
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            111
+            111
+            0 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            64
+            64
+			68
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            37
+            37
+            106
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            68
+            68
+            64
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            5
+            5
+            111 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            7
+            7
+            5 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            9
+            9
+            4 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            0
+            0
+            10 
+            156
+			2
+			121
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1022_sultan2_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="51" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>superd2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            4
+            4 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            6
+            6 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            11
+            11 
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34
+            32 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            134
+            134 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            66
+            66 
+            66 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            94
+            94 
+            104
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            101
+            101 
+            102 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            98
+            132 
+            98
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="69" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>supergt</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            7
+            7
+            5 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            34
+            34
+            30 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            33
+            33
+            29 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            57
+            57 
+            55 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            76
+            76 
+            75 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>taxi2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            88
+            77
+			25
+            120 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="152" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>taxi3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            88
+            77
+			25
+            120 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>tourmav</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            121
+            121 
+            121
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits></kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>turismo2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            35
+            35 
+            126 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1 
+            1 
+            3
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            17
+            17 
+            34 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            22 
+            22 
+            22 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31 
+            31 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            37
+            37 
+            30 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51 
+            51 
+            50
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            68 
+            68 
+            62 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71 
+            71
+            62 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88 
+            88 
+            88 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="153" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>typhoon</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            35
+            35 
+            126 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            1 
+            1 
+            3
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            17
+            17 
+            34 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            22 
+            22 
+            22 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31 
+            31 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            37
+            37 
+            30 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            51 
+            51 
+            50
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            68 
+            68 
+            62 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            71 
+            71
+            62 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            88 
+            88 
+            88 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="57" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>uranus</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0
+            0 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            6
+            6 
+            6 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            35
+            35 
+            35 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            64
+            64 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134
+            134 
+            156 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>1012_uranus_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>vigero2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            111
+            111 
+            0 
+            156 
+          </indices>
+          <liveries>
+		  <Item value="true" />
+		  </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="45" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="45" />
+          </Item>
+          <Item>
+            <Name>Blue Plate</Name>
+            <Value value="10" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="2" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>vincent</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            3
+            3
+            0
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            7
+            7 
+            6 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            31
+            27 
+            31 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            52
+            49
+            52 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            49
+            0 
+            49 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            62
+            0 
+            63 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            111
+            0 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            99
+            0 
+            99 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		 <Item>
+          <indices content="char_array">
+            143
+            0 
+            31
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="80" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="20" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="0" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>wayfarer</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            5 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11 
+            0 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            0 
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33 
+            33 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54 
+            54 
+            57
+            156 
+          </indices>
+          <liveries/>
+        </Item>  
+		<Item>
+          <indices content="char_array">
+            111 
+            111 
+            111 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            28 
+            28 
+            32 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            38 
+            38 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            92 
+            92 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            3 
+            3 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>  		
+      </colors>
+      <kits>
+		<Item>0_bike_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>willard</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            7 
+            7 
+            133 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            4 
+            4 
+            9 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            19 
+            19 
+            19 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            6
+            6 
+            134 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            33 
+            33 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            31 
+            31 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            34 
+            34 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            54 
+            54 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            56 
+            56 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            52 
+            52 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            67 
+            67 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            77 
+            77 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            94 
+            94 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            2 
+            2 
+            0 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="154" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>wolfsbane2</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            5 
+            50 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            11 
+            0 
+            1 
+            156 
+          </indices>
+          <liveries/>
+        </Item> 
+		<Item>
+          <indices content="char_array">
+            0 
+            0 
+            8 
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            33 
+            33 
+            33
+            156 
+          </indices>
+          <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            54 
+            54 
+            57
+            156 
+          </indices>
+          <liveries/>
+        </Item>   		
+      </colors>
+      <kits>
+		<Item>1001_wolf_modkit</Item>
+	  </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="1" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>yankee</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            5
+            1
+            5
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            0
+            110
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits>
+        <Item>0_default_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="14" />
+      <sirenSettings value="0" />
+    </Item>
+	<Item>
+      <modelName>yankee2</modelName>
+      <colors>
+         <Item>
+          <indices content="char_array">
+            5
+            1
+            5
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            134
+            0
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            110
+            0
+            110
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+		<Item>
+          <indices content="char_array">
+            121
+            1
+            0
+            156 
+          </indices>
+         <liveries/>
+        </Item>
+      </colors>
+      <kits>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Standard White</Name>
+            <Value value="50" />
+          </Item>
+          <Item>
+            <Name>White Plate 2</Name>
+            <Value value="50" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="14" />
+      <sirenSettings value="0" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

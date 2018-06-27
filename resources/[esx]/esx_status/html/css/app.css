@@ -1,0 +1,20 @@
+#status_list {
+	position: absolute;
+	left   : 307px;
+	bottom : 127px;
+	width  : 218px;
+	opacity: 0.5;
+}
+
+.status {
+	padding: 1px;
+	margin: 0.3em;
+}
+
+.status_inner {
+	padding: 1px;
+}
+
+.status_val {
+	height : 0.5em;
+}
